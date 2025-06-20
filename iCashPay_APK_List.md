@@ -5,15 +5,6 @@
 ---
 
 ## 🔹 最新版本
-
-- 📦 [SIT_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/o899z7tuxm4vw830qb5ff/SIT_ICP_202506_3.0.8.20620.apk?rlkey=de3anvr27od0vghnqr7zl9jkb&st=nd7meugx&dl=1)
-
-- 📦 [UAT_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/n1eg1ny5im8kcoxhgjy2m/UAT_ICP_202506_3.0.8.20620.apk?rlkey=m4dl93rjdifha76nj6ggvzg1n&st=pj6u8i32&dl=1)
-
-- 📦 [Pilot_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/awz1i01d38045ved5wc36/Pilot_ICP_202506_3.0.8.20620.apk?rlkey=93cl3ctc4qjx2e47enlrpj8t6&st=deulydy5&dl=1)
-
----
-
 ## 🔸 歷史版本
 
 - 🕓 [SIT_ICP_202506_3.0.8.20606](https://www.dropbox.com/scl/fi/ekazym5za8a8p2dc9jzan/SIT_ICP_202506_3.0.8.20606.apk?rlkey=itd9i7dpojuwjm8c8lynegcr0&st=l6ggpyuh&dl=1)
@@ -23,6 +14,35 @@
 - 🕓 [Pilot_ICP_202506_3.0.8.20606](https://www.dropbox.com/scl/fi/916sj8uyd7whavyqdlwok/Pilot_ICP_202506_3.0.8.20606.apk?rlkey=18vsci6kt4tn5p2wmewxqqvqn&st=s8qsdrly&dl=1)
 
 ---
+
+## 📌 說明
+
+- 點選上方連結會直接下載 APK
+- 如需測試舊版行為，可先解除安裝新版後再安裝
+- 若有無法下載或版本需求請聯絡開發團隊
+
+
+- 📦 [Pilot_ICP_202506_3.0.8.20606](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20606/Pilot_ICP_202506_3.0.8.20606.apk)
+- 📦 [Pilot_ICP_202506_3.0.8.20620](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20620/Pilot_ICP_202506_3.0.8.20620.apk)
+- 📦 [Pilot_ICP_202506_3.0.8.20642](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20642/Pilot_ICP_202506_3.0.8.20642.apk)
+- 📦 [SIT_ICP_202506_3.0.8.20606](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20606/SIT_ICP_202506_3.0.8.20606.apk)
+- 📦 [SIT_ICP_202506_3.0.8.20620](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20620/SIT_ICP_202506_3.0.8.20620.apk)
+- 📦 [SIT_ICP_202506_3.0.8.20642](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20642/SIT_ICP_202506_3.0.8.20642.apk)
+- 📦 [UAT_ICP_202506_3.0.8.20606](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20606/UAT_ICP_202506_3.0.8.20606.apk)
+- 📦 [UAT_ICP_202506_3.0.8.20620](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20620/UAT_ICP_202506_3.0.8.20620.apk)
+- 📦 [UAT_ICP_202506_3.0.8.20642](https://github.com/your-org/icashpay-apk-page/releases/download/v3.0.8.20642/UAT_ICP_202506_3.0.8.20642.apk)
+
+## 🔸 歷史版本
+
+- 📦 [SIT_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/o899z7tuxm4vw830qb5ff/SIT_ICP_202506_3.0.8.20620.apk?rlkey=de3anvr27od0vghnqr7zl9jkb&st=nd7meugx&dl=1)
+
+- 📦 [UAT_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/n1eg1ny5im8kcoxhgjy2m/UAT_ICP_202506_3.0.8.20620.apk?rlkey=m4dl93rjdifha76nj6ggvzg1n&st=pj6u8i32&dl=1)
+
+- 📦 [Pilot_ICP_202506_3.0.8.20620](https://www.dropbox.com/scl/fi/awz1i01d38045ved5wc36/Pilot_ICP_202506_3.0.8.20620.apk?rlkey=93cl3ctc4qjx2e47enlrpj8t6&st=deulydy5&dl=1)
+
+---
+
+
 
 ## 📌 說明
 
