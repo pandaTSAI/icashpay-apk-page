@@ -1,0 +1,3 @@
+- 📦 [Pilot_ICP_202506_3.0.8.20623](https://github.com/pandaTSAI/icashpay-apk-page/releases/download/v3.0.8.20623/Pilot_ICP_202506_3.0.8.20623.apk)
+- 📦 [SIT_ICP_202506_3.0.8.20623](https://github.com/pandaTSAI/icashpay-apk-page/releases/download/v3.0.8.20623/SIT_ICP_202506_3.0.8.20623.apk)
+- 📦 [UAT_ICP_202506_3.0.8.20623](https://github.com/pandaTSAI/icashpay-apk-page/releases/download/v3.0.8.20623/UAT_ICP_202506_3.0.8.20623.apk)
