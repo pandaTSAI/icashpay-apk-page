@@ -3,6 +3,9 @@ title: iCashPay APK List
 layout: default
 ---
 
+<!-- refreshed: 2025-06-24 17:30:01.123 -->
+<!-- debug-id: d6f8a7b8-... -->
+
 # 📱 iCashPay APK 歷屆版本下載
 
 提供各版本 APK 檔案下載，可用於測試或回溯歷史版本使用。
@@ -40,3 +43,12 @@ layout: default
 
 👉 [https://bit.ly/44sisIX](https://bit.ly/44sisIX)
 # 2025-06-24 16:15:28
+
+<!-- forced-timestamp: 2025-06-24 16:49:21.3N -->
+<!-- forced-debug-id: 4CA4AE11-503B-42F0-B487-52E486A90C89 -->
+
+<!-- force refresh -->
+git add index.md
+git commit -m "♻️ 強制刷新 GitHub Pages 顯示 index.md"
+git push origin main
+
