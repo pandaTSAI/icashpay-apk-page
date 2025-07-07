@@ -2,7 +2,7 @@
 title: iCashPay APK List
 layout: default
 ---
-<!-- force-refresh: 04FEE33B-2301-48F2-A2F5-F19A1BFCBD6E -->
+<!-- force-refresh: F068498E-FF7B-42BC-B9BE-4D98DB826DC3 -->
 # 📱 iCashPay APK 歷屆版本下載
 
 ## 🔹 最新版本（每環境最新）
@@ -45,10 +45,10 @@ layout: default
 - [](https://github.com/pandaTSAI/icashpay-apk-page/releases/download/v/)
 </details>
 ---
-> 最後更新時間：2025-07-07 09:29:23
+> 最後更新時間：2025-07-07 09:35:24
 👉 [https://bit.ly/44sisIX](https://bit.ly/44sisIX)
 
-- Build UUID: 04FEE33B-2301-48F2-A2F5-F19A1BFCBD6E
-<!-- forced-timestamp: 2025-07-07 09:29:23 -->
-<!-- forced-debug-id: 04FEE33B-2301-48F2-A2F5-F19A1BFCBD6E -->
-<!-- dummy-refresh: 1751851764N -->
+- Build UUID: F068498E-FF7B-42BC-B9BE-4D98DB826DC3
+<!-- forced-timestamp: 2025-07-07 09:35:24 -->
+<!-- forced-debug-id: F068498E-FF7B-42BC-B9BE-4D98DB826DC3 -->
+<!-- dummy-refresh: 1751852125N -->
